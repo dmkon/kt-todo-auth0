@@ -1,4 +1,4 @@
-package com.nortohol.todoauth0
+package com.nortohol.auth0
 
 import org.junit.Test
 

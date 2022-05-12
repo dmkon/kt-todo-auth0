@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">Todo Auth0</string>
+    <string name="app_name">Auth0</string>
+    <string name="login">Log In</string>
+    <string name="logout">Log Out</string>
+    <string name="profile">Profile</string>
+    <string name="com_auth0_client_id">cSMIplZenVQndN60QeT0cGkDFPmn8GVP</string>
+    <string name="com_auth0_domain">dev-8co-5m1c.us.auth0.com</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="no_data_available">No data available</string>
+    <string name="problem_occurred">Problem occurred</string>
+    <string name="top_app_bar">Auth0 Top App Bar</string>
+    <string name="bottom_app_bar">Auth0 Bottom App Bar</string>
+    <string name="is_logged">Is logged: </string>
+    <string name="name">Name: </string>
+    <string name="email">Email: </string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
 </resources>
